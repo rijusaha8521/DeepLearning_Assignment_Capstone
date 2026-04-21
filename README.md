@@ -2,7 +2,7 @@
 # Course Title: Deep Learning Architectures and Techniques 
 # Course Code: ETMMDL274
 # Name : Riju Kumar Saha
-# Rool No. : 2501940018
+# Roll No. : 2501940018
 Objective 
  
 The goal of this capstone project is to integrate and apply concepts learned throughout the course, 
